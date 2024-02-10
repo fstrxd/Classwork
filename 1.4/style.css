@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body button {
+    width: 100px;
+    height: 50px;
+    background-color: rgb(136, 141, 141);
+    border-radius: 10px;
+    margin: 0 20px;
+    color: #FFFFFF;
+    font-size: medium;
+}
+
+.display1 {
+    height: 500px;
+    background-color: aqua;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+}
+.cars1{
+    background-color: rgb(100, 100, 235);
+}
+.cars2 {
+    background-color: yellow;
+}
+.cars3{
+    background-color: chartreuse;
+}
+.cars4{
+    background-color: rgb(93, 139, 132);
+}
+.cars5{
+    background-color: rgb(62, 14, 173);
+}
+.cars6{
+    background-color: rgb(255, 0, 13);
+}
+.cars7{
+    background-color: rgb(250, 204, 0);
+}
+.cars8{
+    background-color: rgb(15, 69, 131);
+}
+.cars9{
+
+    background-color: rgb(143, 85, 10);
+}
+.display2 {
+    background-color: brown;
+}
+
+.display3 {
+    background-color: violet;
+}
